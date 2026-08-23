@@ -1,14 +1,14 @@
 body {
   --bg-color: #C6A195;
-  --border-color: #000;
-  --content-bg-color: #f3f3f3;
-  --text-color: #431;
+  --border-color: #4B1F11;
+  --content-bg-color: #674E46;
+  --text-color: #87791C;
   --link-color: #900;
   --link-hover-color: rgba(0, 0, 0, 0.05);
   --unavailable-bg-color: rgba(0, 0, 0, 0.1);
   --unavailable-color: #999;
-  --tab-bg-color: #dedede;
-  --tab-color: #ddd;
+  --tab-bg-color: #C13E3E;
+  --tab-color: #972121;
   --tab-hover-color: #ececec;
   --card-border-color: #ccc; 
   --card-bg-color: #ddd; 
